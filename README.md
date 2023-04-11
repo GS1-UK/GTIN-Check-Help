@@ -16,11 +16,12 @@ It is hoped that this will encourage brand and product owners to supply an even 
 If you are interested in finding out more about GTIN Check please visit the GS1 UK website at https://www.gs1uk.org
 
 
-### Help and documentation for GS1 UK's "GTIN Check" service
 
-Here you will find the documentation for the GTIN Check service.
+## Help and documentation
+
+Here you will find the documentation for the GTIN Check service in PDF format:<br>
+[GTIN Check_API_Developers_guide.pdf](GTIN%20Check_API_Developers_guide.pdf)
 
 If you wish to try out the service, use our API documentation with the <i>Postman</i> application along with your authorization key supplied
-to you by GS1 UK:
-
+to you by GS1 UK:<br>
 https://documenter.getpostman.com/view/2s93Xu2RAd?version=latest
