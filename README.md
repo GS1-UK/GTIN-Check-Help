@@ -1,4 +1,4 @@
-# GTIN Check API Help
+# GTIN Check Help
 
 ## Introduction
 GTIN Check is a new service to help drive the creation of industry trusted data.
