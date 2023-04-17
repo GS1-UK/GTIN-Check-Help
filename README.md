@@ -7,11 +7,11 @@ It has been designed to help GS1 UK members swiftly and easily verify the Global
 
 The service has been created to help address a number of our recurring cross-sector challenges such as:
 
-	Giving marketplaces and e-commerce sites the ability to check in real-time whether listed products have valid GS1 GTINs
+	Giving marketplaces and e-commerce sites the ability to check in real-time whether listed products have valid GS1 GTINs.
 
-	Enabling all members to cleanse their internal databases to verify that all product data is assigned valid GS1 GTINs
+	Enabling all members to cleanse their internal databases to verify that all product data is assigned valid GS1 GTINs.
 
-	Supporting members with issues like compliance of business processes, such as the NHS mandate for use of GS1 GTINs
+	Supporting members with issues like compliance of business processes, such as the NHS mandate for use of GS1 GTINs.
 
 One aspect that GTIN Check will provide to the wider business sphere is a degree of self-regulation – industry trading partners can actively check the validity of the data they receive, enabling oversight and the policing of the quality of the data they deal with.
 
