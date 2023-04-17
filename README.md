@@ -3,7 +3,7 @@
 ## Introduction
 GTIN Check is a new service to help drive the creation of industry trusted data.
 
-It has been designed to help GS1 members swiftly and easily verify the Global Trade Item Numbers (GTINs) they hold in their businesses against the official GS1 global network of more than 10bn GTINs.
+It has been designed to help GS1 UK members swiftly and easily verify the Global Trade Item Numbers (GTINs) they hold in their businesses against the official GS1 global network of more than 10bn GTINs.
 
 The service has been created to help address a number of our recurring cross-sector challenges such as:
 
