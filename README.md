@@ -1,7 +1,7 @@
 # GTIN Check Help
 
 ## Introduction
-GTIN Check is a new service to help drive the creation of industry trusted data.
+GTIN Check is a new API service to help drive the creation of industry trusted data.
 
 It has been designed to help GS1 UK members swiftly and easily verify the Global Trade Item Numbers (GTINs) they hold in their businesses against the official GS1 global network of more than 10bn GTINs.
 
