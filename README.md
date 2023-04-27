@@ -23,7 +23,7 @@ If you are interested in finding out more about GTIN Check please visit the GS1 
 ## Help and documentation
 
 Here you will find the documentation for the GTIN Check service in PDF format:<br>
-[GTIN Check_API_Developers_guide.pdf](GTIN%20Check_API_Developers_guide.pdf)
+https://github.com/GS1-UK/GTIN-Check-Help/blob/main/GTIN%20Check_API_Developers_guide.pdf
 
 If you wish to try out the service, use our API documentation with the <i>Postman</i> application along with your authorization key supplied
 to you by GS1 UK:<br>
